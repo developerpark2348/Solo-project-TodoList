@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+혼자서 검색이나 기존의 코드 도움없이 처음부터 만들어본 TO-do Project입니다. 기존의 코드들은 검색이나 참조에 시간이 오래 걸렸기에, 처음부터 끝까지 만들어본 TO-do list입니다.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
